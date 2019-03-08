@@ -3,27 +3,9 @@
 # __Commit__ it to your repository into `Lessons/Lesson2/Homework`.
 
 ## Code
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+ 
+setwd("c:/Git_Local/GI_class")
+
 
 
 
