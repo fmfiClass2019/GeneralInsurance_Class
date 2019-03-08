@@ -13,3 +13,6 @@ Please fill in [survey](https://forms.office.com/Pages/ResponsePage.aspx?id=unI2
 
 1) Implement UWR chart into Class Shiny app (`Lessons/Lesson3/Homework/Shiny`). 
 Edit file server.R at `output$lesson2_KPI_multidim_UWR_graph` with predefined input data and implement UWR chart we learned during lesson2 as dynamic view not only for `Unit`. Do not forget to commit your changes.
+
+
+test this one
